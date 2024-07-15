@@ -19,4 +19,8 @@ Here are some ideas to get you started:
 <h3 > ✨ About </h4>
 <p>As a dedicated Full Stack Web Developer, I merge creativity with technical expertise to craft captivating digital experiences. Proficient in HTML, CSS, JavaScript, and frameworks like Bootstrap5, jQuery, React.js and Node.js, I excel in building responsive interfaces and scalable back-end solutions. With a passion for innovation and a collaborative mindset, I strive to exceed expectations and deliver results that drive engagement. Let's collaborate to bring your digital vision to life.</p> <br>
 <div align="center">
-<img src="https://r4.wallpaperflare.com/wallpaper/435/542/549/javascript-google-node-js-html-microsoft-visual-studio-hd-wallpaper-37820829361743c78ebe5d791ed75946.jpg"></div>
+<img src="https://r4.wallpaperflare.com/wallpaper/435/542/549/javascript-google-node-js-html-microsoft-visual-studio-hd-wallpaper-37820829361743c78ebe5d791ed75946.jpg"></div> <br>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Vaishnani" alt="GitHub Streak" />
+</p>
