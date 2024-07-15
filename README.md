@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h4 align="center"> A passionate FullStack Web Developer </h4>
+<h3 > About</h4>
 <div align="center">
 <img src="https://r4.wallpaperflare.com/wallpaper/435/542/549/javascript-google-node-js-html-microsoft-visual-studio-hd-wallpaper-37820829361743c78ebe5d791ed75946.jpg"></div>
