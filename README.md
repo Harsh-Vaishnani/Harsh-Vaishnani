@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Harsh-Vaishnani&theme=radical)
 
 <div style="display: flex; justify-content: space-around;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Harsh-Vaishnani&show_icons=true&theme=radical" alt="GitHub Stats" style="margin-bottom:'20px'" width="45%" height="100%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Harsh-Vaishnani&show_icons=true&theme=radical" alt="GitHub Stats"  width="45%" height="100%"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Vaishnani&layout=compact&theme=radical" alt="Top Languages" width="45%"/>
 </div>
 
