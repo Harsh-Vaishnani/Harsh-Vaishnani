@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Harsh-Vaishnani&color=blue&style=flat-square)
 
 <h3>GitHub Readme Streak Stats</h3>
-<p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Vaishnani" alt="GitHub Streak" />
 </p> 
