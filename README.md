@@ -30,9 +30,14 @@ Here are some ideas to get you started:
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Harsh-Vaishnani&theme=radical)
 
-<h3>Languages</h3>
-
+<div>
+  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Vaishnani&layout=compact&theme=radical)
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsh-Vaishnani&show_icons=true&theme=radical)
+  
+</div>
+
 
 <h3>GitHub Readme Streak Stats</h3>
 <p align="center">
