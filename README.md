@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <h3>🏆 GitHub Trophies </h3>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Harsh-Vaishnani&theme=gruvbox)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Harsh-Vaishnani&theme=monokai)
 
 <h3>📊 GitHub Stats </h3>
 
