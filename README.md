@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <h3>Languages</h3>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavitra112&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Vaishnani&layout=compact&theme=radical)
 
 <h3>GitHub Readme Streak Stats</h3>
 <p align="center">
