@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 <p>As a dedicated Full Stack Web Developer, I merge creativity with technical expertise to craft captivating digital experiences. Proficient in HTML, CSS, JavaScript, and frameworks like Bootstrap5, jQuery, React.js and Node.js, I excel in building responsive interfaces and scalable back-end solutions. With a passion for innovation and a collaborative mindset, I strive to exceed expectations and deliver results that drive engagement. Let's collaborate to bring your digital vision to life.</p> <br>
 
 <h3>🏆 GitHub Trophies </h3>
+
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Harsh-Vaishnani&theme=radical)
 
 <div align="center">
