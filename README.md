@@ -1,4 +1,4 @@
-## Hi , I'm Harsh Vaishnani 👋
+<h1 align="center"> Hi , I'm Harsh Vaishnani 👋</h1>
 
 <!--
 **Harsh-Vaishnani/Harsh-Vaishnani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A passionate FullStack Web Developer
-
-<img src="https://camo.githubusercontent.com/a099263df3b5e9a2993ac2bc1dca3237a1249cfe32113e0ec6b3dc1a3999c9ef/68747470733a2f2f6d736f66742e7465616d2f77702d636f6e74656e742f75706c6f6164732f323032322f30392f6e6f7465626f6f6b2e6a706567">
+<h4 align="center"> A passionate FullStack Web Developer </h4>
+<div align="center">
+<img src="https://r4.wallpaperflare.com/wallpaper/435/542/549/javascript-google-node-js-html-microsoft-visual-studio-hd-wallpaper-37820829361743c78ebe5d791ed75946.jpg"></div>
