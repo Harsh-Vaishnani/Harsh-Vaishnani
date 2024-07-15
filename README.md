@@ -39,5 +39,5 @@ Here are some ideas to get you started:
 
 <h3>GitHub Readme Streak Stats</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Vaishnani" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Vaishnani&theme=radical"  alt="GitHub Streak"  />
 </p> 
