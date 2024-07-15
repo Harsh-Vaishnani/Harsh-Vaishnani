@@ -28,16 +28,16 @@ Here are some ideas to get you started:
 
 <h3>🏆 GitHub Trophies </h3>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Harsh-Vaishnani&theme=panda)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Harsh-Vaishnani&theme=noctis_minimus)
 
 <h3>📊 GitHub Stats </h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Harsh-Vaishnani&show_icons=true&theme=panda" alt="GitHub Stats"  width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Harsh-Vaishnani&show_icons=true&theme=noctis_minimus" alt="GitHub Stats"  width="45%"/>
     
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Vaishnani&layout=compact&theme=panda" alt="Top Languages" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Vaishnani&layout=compact&theme=noctis_minimus" alt="Top Languages" width="45%"/>
 
 
 <h3>GitHub Readme Streak Stats</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Vaishnani&theme=panda"  alt="GitHub Streak"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Vaishnani&theme=noctis_minimus"  alt="GitHub Streak"  />
 </p> 
