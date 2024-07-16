@@ -25,7 +25,9 @@ As a dedicated Full Stack Web Developer, I merge creativity with technical exper
 
 <h3 align="center">📂 Projects 📂</h3>
 <ul>
-    <li><a href="https://github.com/Harsh-Vaishnani/Project1">Project 1</a> - Brief description of the project.</li>
+  <li>
+            <a href="https://github.com/Harsh-Vaishnani/Project1">HerbCraft</a> - A website built using HTML, CSS, and media queries for a classroom competition. Achieved 2nd rank for its efficient and concise code.
+        </li>
     <li><a href="https://github.com/Harsh-Vaishnani/Project2">Project 2</a> - Brief description of the project.</li>
     <li><a href="https://github.com/Harsh-Vaishnani/Project3">Project 3</a> - Brief description of the project.</li>
 </ul>
