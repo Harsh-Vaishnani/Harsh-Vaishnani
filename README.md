@@ -31,7 +31,8 @@ As a dedicated Full Stack Web Developer, I merge creativity with technical exper
 </ul>
 
 <h3 align="center">📊 GitHub Stats 📊</h3>
-<div align="center>
+
+<div align="center">
     
 <img src="https://github-readme-stats.vercel.app/api?username=Harsh-Vaishnani&show_icons=true&theme=noctis_minimus" alt="GitHub Stats" width="45%" />
     
