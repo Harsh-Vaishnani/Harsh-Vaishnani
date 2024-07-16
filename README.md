@@ -34,6 +34,7 @@ As a dedicated Full Stack Web Developer, I merge creativity with technical exper
 <div align="center>
     
 <img src="https://github-readme-stats.vercel.app/api?username=Harsh-Vaishnani&show_icons=true&theme=noctis_minimus" alt="GitHub Stats" width="45%" />
+    
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Vaishnani&layout=compact&theme=noctis_minimus" alt="Top Languages" width="45%" />
 
 </div>
