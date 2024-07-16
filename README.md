@@ -4,6 +4,10 @@
 **Harsh-Vaishnani/Harsh-Vaishnani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+<p align="center">
+    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Welcome GIF" />
+</p>
+
 <h3 align="center">✨ About Me ✨</h3>
 <p align="center">
     As a dedicated Full Stack Web Developer, I merge creativity with technical expertise to craft captivating digital experiences. Proficient in HTML, CSS, JavaScript, and frameworks like Bootstrap 5, jQuery, React.js, and Node.js, I excel in building responsive interfaces and scalable back-end solutions. With a passion for innovation and a collaborative mindset, I strive to exceed expectations and deliver results that drive engagement. Let's collaborate to bring your digital vision to life.
@@ -52,6 +56,23 @@
 
 <h3 align="center">📫 How to Reach Me 📫</h3>
 <p align="center">
-    <a href="mailto:vaishnaniharsh8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://www.linkedin.com/in/harsh-vaishnani-23138a200/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:harshvaishnani@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://linkedin.com/in/harshvaishnani"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://twitter.com/harshvaishnani"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 </p>
+
+<h3 align="center">📝 Recent Activity 📝</h3>
+<p align="center">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Harsh-Vaishnani&theme=react-dark" alt="Recent Activity" />
+</p>
+
+<h3 align="center">📄 Blog Posts 📄</h3>
+<ul>
+    <li><a href="https://medium.com/@harshvaishnani/post1">Blog Post 1</a> - Brief description of the blog post.</li>
+    <li><a href="https://medium.com/@harshvaishnani/post2">Blog Post 2</a> - Brief description of the blog post.</li>
+    <li><a href="https://medium.com/@harshvaishnani/post3">Blog Post 3</a> - Brief description of the blog post.</li>
+</ul>
+
+<h3 align="center">📢 Testimonials 📢</h3>
+<p align="center">"Harsh is a highly skilled and dedicated developer who consistently delivers high-quality work." - <strong>Client A</strong></p>
+<p align="center">"A pleasure to work with, Harsh brings a great deal of creativity and professionalism to every project." - <strong>Client B</strong></p>
