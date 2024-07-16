@@ -21,7 +21,12 @@
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Harsh-Vaishnani&theme=noctis_minimus" alt="GitHub Trophies" />
 </p>
-
+<h3 align="center">📂 Projects 📂</h3>
+<ul>
+    <li><a href="https://github.com/Harsh-Vaishnani/Project1">Project 1</a> - Brief description of the project.</li>
+    <li><a href="https://github.com/Harsh-Vaishnani/Project2">Project 2</a> - Brief description of the project.</li>
+    <li><a href="https://github.com/Harsh-Vaishnani/Project3">Project 3</a> - Brief description of the project.</li>
+</ul>
 <h3 align="center">📊 GitHub Stats 📊</h3>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Harsh-Vaishnani&show_icons=true&theme=noctis_minimus" alt="GitHub Stats" width="45%" />
@@ -46,12 +51,7 @@
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </p>
 
-<h3 align="center">📂 Projects 📂</h3>
-<ul>
-    <li><a href="https://github.com/Harsh-Vaishnani/Project1">Project 1</a> - Brief description of the project.</li>
-    <li><a href="https://github.com/Harsh-Vaishnani/Project2">Project 2</a> - Brief description of the project.</li>
-    <li><a href="https://github.com/Harsh-Vaishnani/Project3">Project 3</a> - Brief description of the project.</li>
-</ul>
+
 
 <h3 align="center">📫 How to Reach Me 📫</h3>
 
