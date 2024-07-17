@@ -44,7 +44,24 @@ As a dedicated Full Stack Web Developer, I merge creativity with technical exper
 </table>
 </div>
   </li>
-    <li><a href="https://github.com/Harsh-Vaishnani/Project2">Project 2</a> - Brief description of the project.</li>
+    <li><a href="https://github.com/Harsh-Vaishnani/Project2">Ecommerce website</a>
+              <div style="display: flex;">
+      <table>
+  <tr>
+    <td><strong>Technologies Used:</strong></td>
+    <td>HTML , CSS , Bootstrap , JavaScript , Media queries , AOS library for animations</td>
+  </tr>
+    <tr>
+    <td><strong>Features:</strong></td>
+    <td>Fully responsive design.</td>
+  </tr>
+            <tr>
+    <td><strong>Achievement:</strong></td>
+    <td>Achieved 2nd rank for its efficient and concise code.</td>
+  </tr>
+</table>
+</div>
+    </li>
     <li><a href="https://github.com/Harsh-Vaishnani/Project3">Project 3</a> - Brief description of the project.</li>
 </ul>
 
