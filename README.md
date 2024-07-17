@@ -26,7 +26,7 @@ As a dedicated Full Stack Web Developer, I merge creativity with technical exper
 <h3 align="center">📂 Projects 📂</h3>
 <ul>
   <li>
-            <a href="https://github.com/Harsh-Vaishnani/Project1">HerbCraft</a>
+            <a href="https://github.com/Harsh-Vaishnani/Project1">HerbCraft Website</a>
       <div style="display: flex;">
       <table>
   <tr>
@@ -44,7 +44,7 @@ As a dedicated Full Stack Web Developer, I merge creativity with technical exper
 </table>
 </div>
   </li>
-    <li><a href="https://github.com/Harsh-Vaishnani/Project2">Ecommerce website</a>
+    <li><a href="https://github.com/Harsh-Vaishnani/Project2">Ecommerce Website</a>
               <div style="display: flex;">
       <table>
   <tr>
@@ -62,7 +62,21 @@ As a dedicated Full Stack Web Developer, I merge creativity with technical exper
 </table>
 </div>
     </li>
-    <li><a href="https://github.com/Harsh-Vaishnani/Project3">Project 3</a> - Brief description of the project.</li>
+    <li><a href="https://github.com/Harsh-Vaishnani/Project3">Portfolio Website</a> 
+    <div style="display: flex;">
+      <table>
+  <tr>
+    <td><strong>Built with ReactJS:</strong></td>
+    <td>Developed using ReactJS for efficient and modular component-based architecture.</td>
+  </tr>
+    <tr>
+    <td><strong>Features:</strong></td>
+    <td>Developed using ReactJS for modular and scalable components , Utilized AOS library for engaging animations , Ensured seamless responsiveness for optimal viewing on all devices , Integrated interactive , elements to enhance user interaction , Designed with Tailwind CSS for efficient and customizable styling , Created as a fully responsive portfolio showcasing diverse projects and skills.</td>
+  </tr>
+
+</table>
+</div>
+    </li>
 </ul>
 
 <h3 align="center">📊 GitHub Stats 📊</h3>
