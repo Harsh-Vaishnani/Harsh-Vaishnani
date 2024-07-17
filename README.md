@@ -53,11 +53,11 @@ As a dedicated Full Stack Web Developer, I merge creativity with technical exper
   </tr>
     <tr>
     <td><strong>Features:</strong></td>
-    <td>Fully responsive design.</td>
+    <td>Fully responsive design , Utilizes Bootstrap for enhanced layout and responsiveness , Integrated JavaScript for interactive elements , Uses media queries for different screen sizes , AOS library used for animations</td>
   </tr>
             <tr>
-    <td><strong>Achievement:</strong></td>
-    <td>Achieved 2nd rank for its efficient and concise code.</td>
+    <td><strong>Additional Information:</strong></td>
+    <td>This e-commerce website fetches data using APIs for dynamic content.</td>
   </tr>
 </table>
 </div>
