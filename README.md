@@ -26,7 +26,7 @@ As a dedicated Full Stack Web Developer, I merge creativity with technical exper
 <h3 align="center">📂 Projects 📂</h3>
 <ul>
   <li>
-            <a href="https://github.com/Harsh-Vaishnani/Project1">HerbCraft Website</a>
+            <a href="https://github.com/Harsh-Vaishnani/HerbCraft">HerbCraft Website</a>
       <div style="display: flex;">
       <table>
   <tr>
