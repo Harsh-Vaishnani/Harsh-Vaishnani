@@ -42,10 +42,8 @@ As a dedicated Full Stack Web Developer, I merge creativity with technical exper
     <td>Achieved 2nd rank for its efficient and concise code.</td>
   </tr>
 </table>
-
-      </div>
-      
-        </li>
+</div>
+  </li>
     <li><a href="https://github.com/Harsh-Vaishnani/Project2">Project 2</a> - Brief description of the project.</li>
     <li><a href="https://github.com/Harsh-Vaishnani/Project3">Project 3</a> - Brief description of the project.</li>
 </ul>
