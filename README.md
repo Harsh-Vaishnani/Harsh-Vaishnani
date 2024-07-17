@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Harsh Vaishnani 👋</h1>
+<h1 align="center"> Greetings, I'm Harsh Vaishnani 👋</h1>
 
 <!--
 **Harsh-Vaishnani/Harsh-Vaishnani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,7 +26,25 @@ As a dedicated Full Stack Web Developer, I merge creativity with technical exper
 <h3 align="center">📂 Projects 📂</h3>
 <ul>
   <li>
-            <a href="https://github.com/Harsh-Vaishnani/Project1">HerbCraft</a> - A website built using HTML, CSS, and media queries for a classroom competition. Achieved 2nd rank for its efficient and concise code.
+            <a href="https://github.com/Harsh-Vaishnani/Project1">HerbCraft</a>
+      <div style="display: flex;">
+      <table>
+  <tr>
+    <td><strong>Technologies Used:</strong></td>
+    <td>HTML, CSS, Media queries, AOS library for animations.</td>
+  </tr>
+    <tr>
+    <td><strong>Features:</strong></td>
+    <td>Fully responsive design.</td>
+  </tr>
+            <tr>
+    <td><strong>Achievement:</strong></td>
+    <td>Achieved 2nd rank for its efficient and concise code.</td>
+  </tr>
+</table>
+
+      </div>
+      
         </li>
     <li><a href="https://github.com/Harsh-Vaishnani/Project2">Project 2</a> - Brief description of the project.</li>
     <li><a href="https://github.com/Harsh-Vaishnani/Project3">Project 3</a> - Brief description of the project.</li>
