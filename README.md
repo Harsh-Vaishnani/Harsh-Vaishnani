@@ -44,7 +44,7 @@ As a dedicated Full Stack Web Developer, I merge creativity with technical exper
 </table>
 </div>
   </li>
-    <li><a href="https://github.com/Harsh-Vaishnani/Project2">Ecommerce Website</a>
+    <li><a href="https://github.com/Harsh-Vaishnani/JS-Website/tree/main/AddToCart">Ecommerce Website</a>
               <div style="display: flex;">
       <table>
   <tr>
