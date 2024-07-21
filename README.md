@@ -101,10 +101,7 @@ As a dedicated Full Stack Web Developer, I merge creativity with technical exper
 
 </div>
 
-<h3 align="center">🔥 Keep the Code Flowing!  🔥</h3>
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Vaishnani&theme=noctis_minimus" alt="GitHub Streak" />
-</p>
+
 
 
 <h3 align="center">📫 How to Reach Me 📫</h3>
