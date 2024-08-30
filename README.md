@@ -23,61 +23,6 @@ As a dedicated Full Stack Web Developer, I merge creativity with technical exper
     <img src="https://github-profile-trophy.vercel.app/?username=Harsh-Vaishnani&theme=noctis_minimus" alt="GitHub Trophies" />
 </p>
 
-<h3 align="center">📂 Projects 📂</h3>
-<ul>
-  <li>
-            <a href="https://github.com/Harsh-Vaishnani/HerbCraft">HerbCraft Website</a>
-      <div style="display: flex;">
-      <table>
-  <tr>
-    <td><strong>Technologies Used:</strong></td>
-    <td>HTML, CSS, Media queries, AOS library for animations.</td>
-  </tr>
-    <tr>
-    <td><strong>Features:</strong></td>
-    <td>Fully responsive design.</td>
-  </tr>
-            <tr>
-    <td><strong>Achievement:</strong></td>
-    <td>Achieved 2nd rank for its efficient and concise code.</td>
-  </tr>
-</table>
-</div>
-  </li>
-    <li><a href="https://github.com/Harsh-Vaishnani/JS-Website/tree/main/AddToCart">Ecommerce Website</a>
-              <div style="display: flex;">
-      <table>
-  <tr>
-    <td><strong>Technologies Used:</strong></td>
-    <td>HTML , CSS , Bootstrap , JavaScript , Media queries , AOS library for animations</td>
-  </tr>
-    <tr>
-    <td><strong>Features:</strong></td>
-    <td>Fully responsive design , Utilizes Bootstrap for enhanced layout and responsiveness , Integrated JavaScript for interactive elements , Uses media queries for different screen sizes , AOS library used for animations</td>
-  </tr>
-            <tr>
-    <td><strong>Additional Information:</strong></td>
-    <td>This e-commerce website fetches data using APIs for dynamic content.</td>
-  </tr>
-</table>
-</div>
-    </li>
-    <li><a href="https://github.com/Harsh-Vaishnani/Project3">Portfolio Website</a> 
-    <div style="display: flex;">
-      <table>
-  <tr>
-    <td><strong>Built with ReactJS:</strong></td>
-    <td>Developed using ReactJS for efficient and modular component-based architecture.</td>
-  </tr>
-    <tr>
-    <td><strong>Features:</strong></td>
-    <td>Developed using ReactJS for modular and scalable components , Utilized AOS library for engaging animations , Ensured seamless responsiveness for optimal viewing on all devices , Integrated interactive , elements to enhance user interaction , Designed with Tailwind CSS for efficient and customizable styling , Created as a fully responsive portfolio showcasing diverse projects and skills.</td>
-  </tr>
-
-</table>
-</div>
-    </li>
-</ul>
 <h3 align="center">💻 Tech Stack 💻</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
