@@ -1,190 +1,168 @@
-<style>
-  @keyframes fadeInDown {
-    from {
-      opacity: 0;
-      transform: translateY(-20px);
-    }
-    to {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }
+<div align="center">
 
-  @keyframes fadeInUp {
-    from {
-      opacity: 0;
-      transform: translateY(20px);
-    }
-    to {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=Harsh%20Vaishnani&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Developer&descAlignY=60" width="100%" />
 
-  @keyframes slideInLeft {
-    from {
-      opacity: 0;
-      transform: translateX(-30px);
-    }
-    to {
-      opacity: 1;
-      transform: translateX(0);
-    }
-  }
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=1000&lines=Full+Stack+Developer;MERN+Stack+Developer;Frontend+Specialist;Shopify+Developer;Building+Modern+Web+Applications" />
 
-  @keyframes pulse {
-    0%, 100% {
-      opacity: 1;
-    }
-    50% {
-      opacity: 0.7;
-    }
-  }
+<br/><br/>
 
-  .header-section {
-    animation: fadeInDown 0.8s ease-out;
-  }
+<img src="https://komarev.com/ghpvc/?username=Harsh-Vaishnani&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
-  .about-section {
-    animation: fadeInUp 0.8s ease-out 0.2s backwards;
-  }
+<img src="https://img.shields.io/github/followers/Harsh-Vaishnani?style=for-the-badge&color=blue" />
 
-  .tech-section {
-    animation: slideInLeft 0.8s ease-out 0.4s backwards;
-  }
-
-  .pulse-badge {
-    animation: pulse 2s infinite;
-  }
-</style>
-
-<div align="center" class="header-section">
-  <h1>
-    👋 Greetings, I'm <span style="color: #0077B5;">Harsh Vaishnani</span>
-  </h1>
-  
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Harsh-Vaishnani&color=0077B5&style=flat-square" alt="Profile Views" />
-  </p>
-
-  <p style="font-size: 18px; color: #333; max-width: 600px; margin: 20px auto; line-height: 1.6;">
-    <strong>Full Stack Web Developer</strong> crafting captivating digital experiences with clean code and creative solutions
-  </p>
-</div>
-
----
-
-<div class="about-section">
-
-## ✨ About Me
-
-As a dedicated **Full Stack Web Developer**, I merge creativity with technical expertise to deliver high-quality digital solutions. With a strong foundation in modern web technologies, I excel at building:
-
-✅ **Responsive & Interactive Interfaces** - HTML5, CSS3, JavaScript  
-✅ **Scalable Backend Solutions** - Node.js, Express.js  
-✅ **Dynamic Web Applications** - React.js, jQuery  
-✅ **Database Management** - MongoDB  
-✅ **E-commerce Platforms** - Shopify, WordPress  
-
-With a passion for **innovation** and a **collaborative mindset**, I strive to exceed expectations and deliver results that drive engagement. Let's collaborate to bring your digital vision to life! 🚀
+<img src="https://img.shields.io/github/stars/Harsh-Vaishnani?style=for-the-badge&color=yellow" />
 
 </div>
 
 ---
 
-## 💻 Tech Stack
+# 💫 About Me
+
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+🚀 Passionate Full Stack Web Developer from India  
+⚡ Building scalable and high-performance applications  
+🎨 Specialized in responsive UI/UX & frontend animations  
+🔥 MERN Stack & Shopify Developer  
+📈 Focused on clean architecture & fast rendering  
+💻 Love building modern digital experiences  
+
+---
+
+# 🌐 Connect With Me
 
 <div align="center">
 
-### Frontend Development
-<div style="margin: 15px 0;">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
-</div>
+<a href="mailto:vaishnaniharsh8@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-### Backend Development
-<div style="margin: 15px 0;">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</div>
+<a href="https://www.linkedin.com/in/harsh-vaishnani">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-### E-commerce & CMS
-<div style="margin: 15px 0;">
-  <img src="https://img.shields.io/badge/Shopify-96BE39?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-</div>
+<a href="https://harshvaishnani.in/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
+
+<a href="https://github.com/Harsh-Vaishnani">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harsh-Vaishnani&theme=noctis_minimus&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Harsh-Vaishnani&show_icons=true&theme=noctis_minimus&hide_border=true" alt="GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Vaishnani&layout=compact&theme=noctis_minimus&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🎯 What I Bring to the Table
-
-| 🎨 | **Design** | Creating pixel-perfect, responsive UI/UX that users love |
-|---|---|---|
-| ⚡ | **Performance** | Optimizing code for speed and efficiency |
-| 🔒 | **Security** | Building secure, scalable applications |
-| 📱 | **Mobile-First** | Responsive design that works everywhere |
-| 🤝 | **Collaboration** | Clear communication and team synergy |
-
----
-
-## 📫 Get In Touch
+# ⚡ Tech Stack
 
 <div align="center">
 
-**Let's connect and create something amazing together!**
+## 🎨 Frontend
 
-<p>
-  <a href="mailto:vaishnaniharsh8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/harsh-vaishnani-23138a200">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Harsh-Vaishnani">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,jquery" />
+
+<br/><br/>
+
+## ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,firebase" />
+
+<br/><br/>
+
+## 🛠️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,netlify" />
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Harsh-Vaishnani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Harsh-Vaishnani&theme=tokyonight&hide_border=true&background=0D1117" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Vaishnani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Harsh-Vaishnani&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# 🔥 GitHub Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-Vaishnani&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Harsh-Vaishnani&repo=BOOKshelf&theme=tokyonight&hide_border=true" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Harsh-Vaishnani&repo=portfolio&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 💻 Coding Animation
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" />
+
+</div>
+
+---
+
+# ✨ Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
 ---
 
 <div align="center">
-  <p>
-    <i>Building the web, one line of code at a time 💻✨</i>
-  </p>
-  
-  ⭐ If you found this interesting, feel free to star some of my projects!
+
+## 💎 Code • Create • Innovate
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%" />
+
 </div>
